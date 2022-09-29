@@ -9,7 +9,7 @@ The code is written by Xin Yu and adapted from [steveli/partial-encoder-decoder]
 <img src="https://github.com/MASILab/C-SliceGen/blob/086d74fc743cdd1e6c129826455060cb0cf376fc/images/method.png" width="600px"/>
 
 ## Data preparation
-The axial slice are downsampled to 256 \times 256 and saved in .png format. Target slice of each subject need to be selected. image pairs (conditonal, target) information should be saved in .csv file as the format in [example csv](data_csv/pair_example.csv)
+The axial slice are downsampled to 256 $\times$ 256 and saved in .png format. Target slice of each subject need to be selected. image pairs (conditonal, target) information should be saved in .csv file as the format in [example csv](data_csv/pair_example.csv)
 
 ## Results
 <img src="https://github.com/MASILab/C-SliceGen/blob/086d74fc743cdd1e6c129826455060cb0cf376fc/images/qualitative.png" width="600px"/>
